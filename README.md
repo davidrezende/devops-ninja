@@ -2,29 +2,37 @@
 
 ## O que é devops
 
-Conjunto de coisas que nos ajudam a entregar software e toda a infraestrutura onde a aplicação estará rodando de maneira mais rápida.
+Conjunto de práticas, filsofias culturais e ferramentas que nos ajudam a entregar software e toda a infraestrutura onde a aplicação estará rodando de maneira mais rápida.
 
-Filosofias culturais
+### Filosofias culturais
 - Dev e Ops caminham juntos sem silos.
 - Responsabilidade compartilhada
 - Visibilidade e comunicação
 
-Prática Devops
+### Prática Devops
 - Microserviços: migrando aplicações monolíticas para arquiteturas baseadas em microserviços.
+- Integração contínua
+- Deploy contínuo
+- Infraestrutura como código
+- Monitoração e log
+  - Compreender o desempenho da infraestrutura e da aplicação em tempo real
 
-Ferramentas
+### CI/CD
+
+![CI/CD](images/ci-cd.png)
+
+### Ferramentas
+
+- Pipelines
+  - Mais rápido
+  - Mais seguro
+  - Simplificação e padronização
+  - Visibilidade
 
 
-5x menos chances de falhas
-440x mais rápido entre commit e deploy
-46x deploys mais frequente
-44% do tempo gasto para novas features
+## Benefícios do Devops
 
-
-
-
-
-
+![Itens representando os beneficios do Devops](images/beneficios-devops.png)
 
 
 # Kubernetes
