@@ -1,3 +1,32 @@
+# Devops
+
+## O que é devops
+
+Conjunto de coisas que nos ajudam a entregar software e toda a infraestrutura onde a aplicação estará rodando de maneira mais rápida.
+
+Filosofias culturais
+- Dev e Ops caminham juntos sem silos.
+- Responsabilidade compartilhada
+- Visibilidade e comunicação
+
+Prática Devops
+- Microserviços: migrando aplicações monolíticas para arquiteturas baseadas em microserviços.
+
+Ferramentas
+
+
+5x menos chances de falhas
+440x mais rápido entre commit e deploy
+46x deploys mais frequente
+44% do tempo gasto para novas features
+
+
+
+
+
+
+
+
 # Kubernetes
 ## Objetivo dos Containers
 
